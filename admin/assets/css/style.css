@@ -1,0 +1,73 @@
+/* Import de la Tipografía Maven Pro desde Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap");
+
+*{
+    font-family: "Maven Pro", sans-serif;
+}
+
+.admin-nav{
+    width:220px;
+    min-height:100vh;
+    overflow: hidden;
+    background-color: #343a40;
+    transition: 0.3s all ease-in-out;
+}
+
+.admin-link{
+    background-color: #343a40;
+}
+
+.admin-link:hover, .nav-active{
+    background-color: #212529;
+    text-decoration: none;
+}
+
+.animate{
+    width: 0;
+    transition: 0.5s all ease-in-out;
+}
+
+.bgmorado{
+    background-color: #590995;
+    color:#fff;
+}
+
+.bgmost{
+    background-color: #ffd57e;
+    color:#fff;
+}
+
+.bgazulbajo{
+    background-color: #709fb0;
+    color:#fff;
+}
+
+.bgrosa{
+    background-color: #fe7171;
+    color:#fff;
+}
+
+.borderguinda{
+    border:1px solid #7d0633;
+}
+
+.bgguinda{
+    background-color: #7d0633;
+    color:#fff;
+}
+
+.borderguinda2{
+    border:1px solid #31112c;
+}
+
+.bgguinda2{
+    background-color: #31112c;
+    color:#fff;
+}
+
+.bgrosaxvre{
+    background-color: #ff1e56;
+    color:#fff;
+}
+
+
